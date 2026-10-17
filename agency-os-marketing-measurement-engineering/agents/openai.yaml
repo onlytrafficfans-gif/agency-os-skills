@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Marketing Data"
+  short_description: "Measure campaigns and conversions"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-marketing-measurement-engineering to implement this campaign measurement or attribution task."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Phase 4 Outreach"
+  short_description: "Build compliant outreach and bookings"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-phase-4-outreach to implement approved outreach, replies, suppression, and appointments."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Phase 5 Sales"
+  short_description: "Build proposals, contracts, and payments"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-phase-5-sales-conversion to implement proposal-through-onboarding conversion."

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Production"
+  short_description: "Secure, deploy, monitor, and recover"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-production-engineering to harden and verify this Agency OS production concern."

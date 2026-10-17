@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Acceptance Auditor"
+  short_description: "Verify phase gates with real evidence"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-acceptance-auditor to verify the active phase and issue a pass, fail, or blocked verdict."

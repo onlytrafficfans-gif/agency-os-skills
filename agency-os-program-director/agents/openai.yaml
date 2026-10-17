@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Program Director"
+  short_description: "Route phases and enforce release gates"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-program-director to audit this repository and select the next valid Agency OS phase."

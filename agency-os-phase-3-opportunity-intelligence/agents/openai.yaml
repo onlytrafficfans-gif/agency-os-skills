@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Phase 3 Intelligence"
+  short_description: "Create evidence-grounded prospect audits"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-phase-3-opportunity-intelligence to build cited marketing-opportunity audits."

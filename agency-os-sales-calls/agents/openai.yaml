@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Sales Calls"
+  short_description: "Prepare discovery and closing calls"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-sales-calls to prepare or document this prospect conversation."

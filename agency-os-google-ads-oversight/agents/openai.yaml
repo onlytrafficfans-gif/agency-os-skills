@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agency OS Ads Oversight"
+  short_description: "Review Google Ads responsibly"
+  brand_color: "#1547D2"
+  default_prompt: "Use $agency-os-google-ads-oversight to review this account or recommendation without publishing changes."
