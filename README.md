@@ -1,6 +1,6 @@
 # Agency OS Skill Suite
 
-This package turns the Agency OS master engineering scope and capability inventory into 23 reusable Codex skills. The suite separates program control, shared engineering rules, acceptance auditing, eight sequential phases, six engineering specialties, and six agency-operator capabilities.
+This package turns the Agency OS master engineering scope and capability inventory into 30 reusable Codex skills. The suite separates program control, shared engineering rules, acceptance auditing, eight sequential phases, six engineering specialties, and six agency-operator capabilities.
 
 ## Start here
 
@@ -43,6 +43,22 @@ Invoke `$agency-os-program-director` against the real project repository. On a n
 | `agency-os-google-ads-oversight` | Informed Google Ads review and controlled recommendations |
 | `agency-os-lead-economics` | Funnel costs, acquisition cost, break-even, margin, and recurring revenue |
 | `agency-os-client-success` | Onboarding, reporting, issues, renewals, retention, and secure offboarding |
+
+## Business accountability and product development
+
+These seven companion skills support business decisions and product execution alongside the existing Agency OS program and phase gates. They do not bypass those gates or grant permission for external actions.
+
+| Skill | Responsibility |
+| --- | --- |
+| `business-boss` | One selected business outcome, one next commitment, evidence checks, blocker resolution, and a saved accountability record |
+| `cash-first-product-triage` | Inspect actual product capabilities and buyer evidence before choosing an offer or route to collected cash |
+| `buyer-evidence-experiments` | Bounded demand experiments with explicit observations, decision rules, and honest funnel stages |
+| `paid-outcome-delivery` | Verify and repair the promise, payment, access, and useful outcome journey |
+| `product-development-loop` | Define the user outcome, prove difficult dependencies, build complete usable slices, and verify behavior |
+| `product-experience-refinement` | Improve actual task flows, interaction states, and visual coherence while preserving product identity |
+| `execution-learning-loop` | Convert observed execution failures into focused workflow corrections and realistic evaluation cases |
+
+Use `$business-boss` when deciding the next business action or reviewing a commitment. Use `$product-development-loop` for substantial feature work and `$product-experience-refinement` when a product feels unfinished. For Agency OS implementation, retain `$agency-os-program-director` as the program and phase authority. Accountability records belong to the project using the skills; this package includes no personal business board, credentials, or automatic reminders.
 
 ## Design guarantees
 

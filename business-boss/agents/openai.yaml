@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Boss"
+  short_description: "Choose one next action and track real follow-through"
+  default_prompt: "Use $business-boss to review our last commitment and choose the next concrete business action."
